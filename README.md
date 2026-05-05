@@ -22,7 +22,7 @@ Python · Excel · Machine Learning · Data Analysis · Probability Modeling · 
 ## 📜 Certifications
 - Anthropic AI Fluency: Framework & Foundations
 - Google AI Fundamentals
-- Google Data Analytics (in progress)
+- Google Data Analytics 
 - NVIDIA Deep Learning Institute (in progress)
 
 ---
