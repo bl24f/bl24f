@@ -10,7 +10,7 @@ IT undergraduate at Florida State University | Aspiring AI/ML Engineer
 |---|---|---|
 | Florida Universities Social Media Analysis | Excel, Data Analysis, Storytelling | [View →](https://github.com/bl24f/florida-universities-social-media-analysis-) |
 | MRI Reconstruction with Compressed Sensing | Python, NumPy, SciPy | [View →](https://github.com/bl24f/mri-reconstruction-compressed-sensing/blob/main/README.md) |
-| CNN Deep Learning Presentation | Python, ML Theory | [View →](your-repo-link-here) |
+| CNN Deep Learning Presentation | Python, ML Theory | [View →](https://github.com/bl24f/cnn-presentation-deep-learning/blob/main/README.md) |
 
 ---
 
