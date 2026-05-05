@@ -1,6 +1,6 @@
 # Hi, I'm Bruna! 👋
 
-IT undergraduate at Florida State University | Aspiring AI/ML Engineer | NVIDIA DLI Certified
+IT undergraduate at Florida State University | Aspiring AI/ML Engineer 
 
 ---
 
