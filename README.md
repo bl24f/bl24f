@@ -1,4 +1,4 @@
-# Hi, I'm Bruna Prado! 👋
+# Hi, I'm Bruna Prado! 
 
 IT undergraduate at Florida State University | Aspiring AI/ML Engineer 
 
