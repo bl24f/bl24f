@@ -1,10 +1,10 @@
-# Hi, I'm Bruna! 👋
+# Hi, I'm Bruna Prado! 👋
 
 IT undergraduate at Florida State University | Aspiring AI/ML Engineer 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Tools | Link |
 |---|---|---|
@@ -14,12 +14,12 @@ IT undergraduate at Florida State University | Aspiring AI/ML Engineer
 
 ---
 
-## 🛠️ Skills
+## Skills
 Python · Excel · Machine Learning · Data Analysis · Probability Modeling · SQL
 
 ---
 
-## 📜 Certifications
+## Certifications
 - Anthropic AI Fluency: Framework & Foundations
 - Google AI Fundamentals
 - Google Data Analytics 
@@ -27,5 +27,5 @@ Python · Excel · Machine Learning · Data Analysis · Probability Modeling · 
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url-here)
