@@ -7,8 +7,7 @@ I'm a first-gen college student who spent her undergrad going deep on
 machine learning, probabilistic modeling, and data analytics, while 
 also never skipping leg day. 🏋🏽‍♀️
 
-My goal is to build intelligent systems at the intersection of math 
-and real-world impact. 
+My goal is to build intelligent systems that create real-world impact.
 
 ---
 
