@@ -45,7 +45,7 @@ My goal is to build intelligent systems that create real-world impact.
 - 💻 Building my AI/ML portfolio
 - 🏋🏽‍♀️ Training 5x/week, consistency in the gym = consistency in code
 - 📍 Based in Tallahassee, FL → open to relocation
-- 
+
 ---
 
 ## Connect with me
