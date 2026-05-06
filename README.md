@@ -21,7 +21,7 @@ My goal is to build intelligent systems that create real-world impact.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** Python · SQL  
 **Libraries:** NumPy · SciPy · Pandas  
@@ -31,7 +31,7 @@ My goal is to build intelligent systems that create real-world impact.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - 🟠 Anthropic AI Fluency: Framework & Foundations
 - 🔵 Google AI Fundamentals  
@@ -40,7 +40,7 @@ My goal is to build intelligent systems that create real-world impact.
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - 💻 Building my AI/ML portfolio
 - 🏋🏽‍♀️ Training 5x/week, consistency in the gym = consistency in code
