@@ -30,4 +30,4 @@ Python · Excel · Machine Learning · Data Analysis · Probability Modeling · 
 ---
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brunalelisdoprado/)
