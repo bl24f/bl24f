@@ -4,7 +4,7 @@
 > Tallahassee → Big Tech
 
 I'm a first-gen college student who spent her undergrad going deep on 
-machine learning, probabilistic modeling, and data analytics — while 
+machine learning, probabilistic modeling, and data analytics, while 
 also never skipping leg day. 🏋🏽‍♀️
 
 My goal is to build intelligent systems at the intersection of math 
@@ -22,17 +22,31 @@ and real-world impact.
 
 ---
 
-## Skills
-Python · Excel · Machine Learning · Data Analysis · Probability Modeling · SQL
+## 🛠️ Skills
+
+**Languages:** Python · SQL  
+**Libraries:** NumPy · SciPy · Pandas  
+**Tools:** GitHub · Jupyter · Excel · Google Colab  
+**Concepts:** Machine Learning · Optimization Algorithms · 
+             Probabilistic Modeling · Data Analytics
 
 ---
 
-## Certifications
-- Anthropic AI Fluency: Framework & Foundations
-- Google AI Fundamentals
-- Google Data Analytics 
-- NVIDIA Deep Learning Institute (in progress)
+## 📜 Certifications
 
+- 🟠 Anthropic AI Fluency: Framework & Foundations
+- 🔵 Google AI Fundamentals  
+- 🔵 Google Data Analytics 
+- 🟢 NVIDIA Deep Learning Institute *(in progress)*
+
+---
+
+## 🎯 Currently
+
+- 💻 Building my AI/ML portfolio
+- 🏋🏽‍♀️ Training 5x/week, consistency in the gym = consistency in code
+- 📍 Based in Tallahassee, FL → open to relocation
+- 
 ---
 
 ## Connect with me
